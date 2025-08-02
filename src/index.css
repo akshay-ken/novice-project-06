@@ -3,7 +3,13 @@
 
 @layer base {
   body {
-    @apply font-one;
+    @apply font-one bg-White;
+  }
+}
+
+@layer components {
+  .card {
+    @apply px-6 rounded-2xl max-w-sm;
   }
 }
 
