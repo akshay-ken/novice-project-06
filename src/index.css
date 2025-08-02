@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@theme {
+  /* Primary colors */
+  --color-Purple-100: hsl(254, 88%, 90%);
+  --color-Purple-500: hsl(256, 67%, 59%);
+  --color-Yellow-100: hsl(31, 66%, 93%);
+  --color-Yellow-500: hsl(39, 100%, 71%);
+  --color-White: hsl(0, 0%, 100%);
+  --color-Black: hsl(0, 0%, 7%);
+}
