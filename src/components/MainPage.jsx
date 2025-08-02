@@ -1,3 +1,4 @@
+import { CardFour } from "./CardFour";
 import { CardOne } from "./CardOne";
 import { CardThree } from "./CardThree";
 import { CardTwo } from "./CardTwo";
@@ -8,6 +9,7 @@ export function MainPage() {
       <CardOne />
       <CardTwo />
       <CardThree />
+      <CardFour />
     </main>
   );
 }
