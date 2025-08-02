@@ -7,6 +7,12 @@
   }
 }
 
+@layer components {
+  .card {
+    @apply px-6 rounded-2xl max-w-sm;
+  }
+}
+
 @theme {
   /* Primary colors */
   --color-Purple-100: hsl(254, 88%, 90%);

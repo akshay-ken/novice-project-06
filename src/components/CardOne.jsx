@@ -1,7 +1,7 @@
 import fiveStars from "../assets/images/illustration-five-stars.webp";
 export function CardOne() {
   return (
-    <div className="bg-Purple-500 px-12 py-8 rounded-2xl">
+    <div className="bg-Purple-500 card px-12 py-8 ">
       <p className="text-White text-5xl font-medium text-center mb-6">
         Social Media <span className="text-Yellow-500">10x</span>{" "}
         <span className=" italic">Faster</span> with AI

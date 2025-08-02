@@ -2,7 +2,7 @@ import calWeek from "../assets/images/illustration-consistent-schedule.webp";
 
 export function CardThree() {
   return (
-    <div className="px-6 pt-8 rounded-2xl bg-Yellow-500 overflow-clip">
+    <div className=" pt-8 card bg-Yellow-500 overflow-clip">
       <p className="text-3xl font-semibold mb-6">
         Maintain a consistent posting schedule.
       </p>
