@@ -7,7 +7,7 @@ export function CardOne() {
         <span className=" italic">Faster</span> with AI
       </p>
       <img src={fiveStars} alt="" />
-      <p className="text-white text-center text-2xl font-light mt-2">
+      <p className="text-white  text-2xl text-nowrap text-center font-light mt-2">
         Over 4,000 5-star reviews
       </p>
     </div>
