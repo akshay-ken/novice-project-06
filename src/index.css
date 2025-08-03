@@ -9,7 +9,7 @@
 
 @layer components {
   .card {
-    @apply px-6 rounded-2xl max-w-sm;
+    @apply px-6 rounded-2xl w-sm;
   }
 }
 
