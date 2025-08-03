@@ -6,7 +6,7 @@ export function CardThree() {
       <p className="text-3xl font-semibold mb-6">
         Maintain a consistent posting schedule.
       </p>
-      <div className="bg-[url('./assets/images/illustration-consistent-schedule.webp')] size-55 -mb-18 bg-Purple-500 bg-contain bg-no-repeat"></div>
+      <img src={calWeek} alt="" className="w-[70%] -mb-6" />
     </div>
   );
 }
